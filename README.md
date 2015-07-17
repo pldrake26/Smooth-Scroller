@@ -6,5 +6,5 @@ This plugin allows for a smooth auto scroll to each different section of a singl
 
 1. Each navigation link's href must point to the ID of each corresponding content div.
 2. jQuery script files must be inserted before plugin script files either in head or end of the body sections.
-3. Include the following file using a script tag:  jquery.smooths-croller.js
+3. Include the following file using a script tag:  jquery.smooth-scroller.js
 4. Call the plugin using: $(document).smoothScroll();
